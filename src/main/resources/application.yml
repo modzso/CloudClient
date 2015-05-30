@@ -1,0 +1,6 @@
+server:
+  port: 9000
+
+endpoints:
+  env:
+    enabled: true

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: myapp
+  cloud:
+    config:
+      uri: http://user:ddf4757e-0077-42e4-b2ad-2ae04340b08c@http://localhost:8080
