@@ -10,9 +10,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * Created by Modzso on 2015.05.29..
- */
 @SpringBootApplication
 @RestController
 public class Application {

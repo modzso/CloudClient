@@ -2,9 +2,6 @@ package org.core.client;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-/**
- * Created by Modzso on 2015.05.29..
- */
 @ConfigurationProperties("my")
 public class Config {
 
